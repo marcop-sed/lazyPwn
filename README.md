@@ -53,7 +53,9 @@ This tool, **LazyPwn**, was created **STRICTLY for educational purposes, Capture
 
 Any use of this tool for illegal, malicious, or unauthorized activities is strictly prohibited. The author assumes no liability and is not responsible for any misuse, damage, or legal consequences caused by this tool. By using LazyPwn, you agree to take full responsibility for your actions. **At least during hacking, respect the law.**
 
-🇮🇹 Versione Italiana
+
+
+## 🇮🇹 Versione Italiana
 Che cos'è?
 Ho scritto LazyPwn perché mi ero rotto di lanciare gli stessi 15 comandi a ogni avvio di una macchina su Hack The Box. Non è il classico script pieno di bloatware che promette di hackerare i server da solo; è un orchestratore asincrono e ad eventi, scritto in Python, iper-ottimizzato.
 
@@ -90,9 +92,11 @@ Passagli l'IP target. Creerà una cartella di workspace dedicata (htb_<ip>/) per
 
 ```Bash
 python3 automation.py 10.10.11.10
+```
+
 2. Modalità Post-Exploitation (Fase Shell):
 Hai ottenuto la reverse shell? Apri una nuova tab e lancia questo. Prende in automatico il tuo IP di tun0, avvia un web server nella cartella tools/ e ti spara a schermo il cheatsheet per stabilizzare la TTY.
-```
+
 
 ```Bash
 python3 automation.py --shell
