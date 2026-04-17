@@ -1,0 +1,6 @@
+rich
+aiohttp
+requests
+beautifulsoup4
+urllib3
+pwntools
