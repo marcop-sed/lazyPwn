@@ -83,3 +83,11 @@ sudo python3 automation.py --shell
 
 **[EN]** Written exclusively for educational purposes, authorized CTFs, and legal audits with explicit consent. I am not responsible if you do something highly illegal and go to jail because you pointed this broadly across the Internet. Be ethical. Stay out of prison.
 **[IT]** Scritto per esclusivi scopi educativi ed uso autorizzato su reti con esplicito consenso. L'autore non è responsabile per i danni causati dall'uso illecito di questo framework. Sii etico e non farti arrestare.
+
+---
+
+Sì, ho usato l'AI per farmi aiutare nella pulizia del codice, aggiungere commenti per chiarezza e impaginare meglio il README che stai leggendo, non piangere.
+
+---
+
+Sì, ho usato l'AI per farmi aiutare nella pulizia del codice, aggiungere commenti per chiarezza e impaginare meglio il README che stai leggendo, non piangere.
